@@ -1,17 +1,17 @@
 # Phantom Artifacts
 
 # Citation
-@inproceedings{bai2025phantom,
 
+```bash
+
+@inproceedings{bai2025phantom,
   title={Phantom: Privacy-Preserving Deep Neural Network Model Obfuscation in Heterogeneous TEE and GPU System},
-  
   author={Bai, Juyang and Chowdhuryy, Md Hafizul Islam and Li, Jingtao and Yao, Fan and Chakrabarti, Chaitali and Fan, Deliang},
-  
   year={2025},
-  
   organization={34th USENIX Security Symposium}
-  
 }
+```
+
 
 ## Overview
 
