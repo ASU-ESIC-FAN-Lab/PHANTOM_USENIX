@@ -1,6 +1,6 @@
 # Phantom Artifacts
 
-# Citation
+## Citation
 
 ```bash
 @inproceedings{bai2025phantom,
