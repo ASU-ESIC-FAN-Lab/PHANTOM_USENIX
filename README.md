@@ -1,5 +1,18 @@
 # Phantom Artifacts
 
+# Citation
+@inproceedings{bai2025phantom,
+
+  title={Phantom: Privacy-Preserving Deep Neural Network Model Obfuscation in Heterogeneous TEE and GPU System},
+  
+  author={Bai, Juyang and Chowdhuryy, Md Hafizul Islam and Li, Jingtao and Yao, Fan and Chakrabarti, Chaitali and Fan, Deliang},
+  
+  year={2025},
+  
+  organization={34th USENIX Security Symposium}
+  
+}
+
 ## Overview
 
 This repository contains the code for the paper "Phantom: Privacy-Preserving Deep Neural Network Model Obfuscation in Heterogeneous TEE and GPU System". In alignment with our commitment to open science, we provide the source code for the complete Phantom framework, along with evaluation scripts for model training and attack simulation. The detailed description of the code is as follows:
